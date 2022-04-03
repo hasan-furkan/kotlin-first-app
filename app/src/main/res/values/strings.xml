@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MerhabaDunya</string>
+    <string name="editText"> Adınızı giriniz </string>
+    <string name="clickBtn">Butona tikla ve asagiya adini yaz</string>
+    <string name="textView">...</string>
+</resources>
